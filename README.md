@@ -14,3 +14,6 @@ Course Objectives:
 
 Files:
 
+weatherApp.py
+cableReceipt3.py
+mathProgram.py
