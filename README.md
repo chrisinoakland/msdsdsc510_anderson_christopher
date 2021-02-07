@@ -1,10 +1,10 @@
-## MSDS DSC510 Introduction to Programming
+## Python
 
-### Course Description:
+### Repo Description:
 
-This course introduces the Python programming language as a tool to clean, slice, and build tools to analyze an existing dataset. Basic principles of programming are explored as well as techniques for configuring a computer for data science work.
+This repo is primarily to display the use of the Python programming language as a tool to clean, slice, and build tools to analyze existing datasets.
 
-### Course Objectives:
+### Objectives:
 
 1. Demonstrate fundamental principles of programming, including data types, variables, loops, conditional statements, functions, and objects.
 2. Compose Python data wrangling and analysis programs by combining custom developed code with modules from Python's built-in libraries and from modules maintained by third parties.
