@@ -16,4 +16,4 @@ This repo is primarily to display the use of the Python programming language as 
 
 1. weatherApp.py - An application that prompts the user for a city or zip code and requests a weather report or forecast - based upon the user's selection - from OpenWeatherMap.
 2. cableReceipt3.py - A program to calculate the total installation costs of fiber optic cable and print a receipt after gathering inputs.
-3. mathProgram.py
+3. mathProgram.py - This program will have a main section which contains a while loop. The while loop will be used to allow the user to run the program until they enter a value which ends the loop.
