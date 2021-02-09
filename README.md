@@ -15,5 +15,5 @@ This repo is primarily to display the use of the Python programming language as 
 ### Files:
 
 1. weatherApp.py
-2. cableReceipt3.py
+2. cableReceipt3.py - A program to calculate the total installation costs of fiber optic cable and print a receipt after gathering inputs.
 3. mathProgram.py
