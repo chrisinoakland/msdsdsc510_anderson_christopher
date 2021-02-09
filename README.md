@@ -14,6 +14,6 @@ This repo is primarily to display the use of the Python programming language as 
 
 ### Files:
 
-1. weatherApp.py
+1. weatherApp.py - An application that prompts the user for a city or zip code and requests a weather report or forecast - based upon the user's selection - from OpenWeatherMap.
 2. cableReceipt3.py - A program to calculate the total installation costs of fiber optic cable and print a receipt after gathering inputs.
 3. mathProgram.py
